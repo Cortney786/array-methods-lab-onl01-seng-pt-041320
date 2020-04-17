@@ -3,7 +3,7 @@ array.include?(element)
 end
 
 def using_sort(array)
-array.last = ("wow")
+array.last = ("wow", "I", "am", "really", "learning", "arrays!")
 end
 
 def using_reverse(array)
